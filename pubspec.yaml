@@ -1,0 +1,16 @@
+name: flython
+description: Use Flython to combine the power of Python with Dart. It was originally created to be used with Flutter but, it doesn't depend on Flutter and can be used in pure Dart code.
+version: 0.2.0
+homepage: https://github.com/amin-ahmadi-com/flython
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  mutex: ^3.0.0
+  uuid: ^3.0.6
+
+platforms:
+  linux:
+  macos:
+  windows:
